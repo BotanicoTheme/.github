@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/BotanicoTheme/.github/blob/main/profile/logo.png" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/BotanicoTheme/.github/blob/main/profile/logo.png" width="150" style="border-radius: 50px" alt="Logo"/><br/>
 	<img src="https://github.com/BotanicoTheme/.github/blob/main/profile/transparent.png" height="30" width="0px"/>
 	Botanico Theme
 </h3>
